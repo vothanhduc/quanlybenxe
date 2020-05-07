@@ -1,0 +1,85 @@
+#footer{
+	position : relative;
+	float : left;
+	width : 660px;
+	height : 150px;
+	margin-top : 5px;
+}
+#footer1{
+	position : relative;
+	float : right;
+	width : 600px;
+	height : 75px;
+	margin-top : 5px;
+}
+#header{
+	position : relative;
+	float : left;
+	margin-bottom : 5px;
+	margin-top : -5px;
+	background-color : #CC0033;
+	width : 700px;
+	height : 40px;
+}
+#header1{
+	position : relative;
+	float : right;
+	margin-bottom : 5px;
+	margin-top : -5px;
+	width : 650px;
+	height : 40px;
+}
+#main{
+	position : relative;
+	float : left;
+	background-color : #eee;
+	width : 570px;
+	height : 400px;
+	margin-left : 50px;
+}
+#main2{
+	position : relative;
+	width : 515px;
+	height : 400px;
+	float : right;
+	margin-left : 5px;
+	margin-right : 100px;
+}
+#sidebar{
+	width : 289px;
+	height : 470px;
+	position : relative;
+	float : right;
+	background-color : #eee;
+}
+.a1
+{
+width : 570px;
+height : 400px;
+}
+#cty{
+	color : white;
+	}
+#tongdai{
+	color : red;
+}
+#chuthich{
+	color : red;
+	font-family: Helvetica, Arial;
+	padding: 10px;
+	margin: 20px;
+	}
+#menu ul li{	 
+	margin:0;
+	padding:0; 
+	text-align:center;
+	display:inline;    
+}
+#menu li a{	 
+	font-size:20px;
+	color:#CC0033;
+	padding: 0 5px;
+	border-right:1px solid #00FF333;
+	text-decoration:none;
+}
+#menu ul li:hover{background:#eee}
